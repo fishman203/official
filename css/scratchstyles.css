@@ -1,0 +1,52 @@
+body{
+    background-color:whitesmoke;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px;
+    margin: 20px;
+    color: rgb(4, 81, 157)
+}
+
+ol{
+    color:rgb(255, 255, 255);
+}
+
+ul{
+    color: rgba(246, 240, 240, 0.791)
+}
+
+h2{
+    color:rgb(255, 255, 255);
+    font-size: 30px
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+
+.common-mainbody{
+    text-align: center;
+}
+
+.common-list{
+    border:3px solid rgb(4, 81, 157);
+    background-color:rgb(133, 130, 130)
+}
+
+.common-header{
+    text-align: center;
+    border:3px solid rgb(4, 81, 157);
+    background-color:rgb(221, 218, 218)
+}
+
+.youtube{
+    text-align: center;
+    border: 3px solid rgb(4, 81, 157);
+    background-color:rgb(197, 193, 193)
+}
+
+.anchor{
+    text-align:center;
+}
